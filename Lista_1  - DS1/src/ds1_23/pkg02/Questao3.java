@@ -5,15 +5,16 @@
  */
 package ds1_23.pkg02;
 
-import java.util.Scanner;
-
-
 public class Questao3 {
     
     public static void main(String[] args) {
+     
+        for (int i = 1; i < 14; i+=2){
+        System.out.println(i);
+    }
     
-        System.out.println("teste");
-    
+        System.out.println("Fim do programa");
+ 
     }
     
 }
